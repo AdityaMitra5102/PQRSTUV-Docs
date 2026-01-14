@@ -21,7 +21,7 @@ The system uses two different communication protocols:
 
 ## Internal Communication Protocol Specification
 
-The storage module and operation modules MUST BE connected by a short serial connection, with RS-232, with a baud rate of 9600 bps, on the on-board connectors on the motherboards. The storage module has its own TPM used to hold master keys.
+The storage module and operation modules MUST be connected by a short serial connection, with RS-232, with a baud rate of 9600 bps, on the on-board connectors on the motherboards. The storage module has its own TPM used to hold master keys.
 
 The Storage module MUST NOT have any network card or network stack. The storage module MUST NOT be able to be memory dumped without turning off the module. It MUST NOT have any hibernate or related features that allow memory state to be saved to storage. The TPM MUST be locked with PCR values and MUST NOT be unlocked without the same PCR values. The TPM MUST NOT allow unlocking by other secrets or operations. The storage module MUST implement tamper detection tied to the PCR values. The storage module MUST NOT allow any other form of connectivity than the serial communication running ICP with the operation module. The storage module MUST be shielded in a Faraday-cage-like enclosure/ chassis and MUST have power consumption stabilizers so as to minimize side-channel leakages. Any form of tamper to the chassis or the power stabilizing component MUST trip the PCR values.
 
@@ -605,3 +605,9 @@ For secure deployment, the following guidelines SHOULD be followed:
 - Proper management of user secret SHOULD be enforced.
 - The device SHOULD be deployed in a segmented network and SHOULD NOT be accessible to unauthorized users.
 - The device SHOULD have proper physical access management and MUST NOT be physically accessible to unauthorized persons.
+
+## Issues and Contributing
+
+This documentation is available on the repository [AdityaMitra5102/PQRSTUV-Docs](http://github.com/AdityaMitra5102/PQRSTUV-Docs). If any part of this specification appears incorrect, ambiguous, or problematic, please open an issue in the GitHub repository. 
+
+Feedback via direct messages, emails, or informal communication channels will not be tracked and may be missed. All technical discussion and proposed changes should be initiated as GitHub issues or pull requests.
