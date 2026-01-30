@@ -610,4 +610,9 @@ For secure deployment, the following guidelines SHOULD be followed:
 
 This documentation is available on the repository [AdityaMitra5102/PQRSTUV-Docs](http://github.com/AdityaMitra5102/PQRSTUV-Docs). If any part of this specification appears incorrect, ambiguous, or problematic, please open an issue in the GitHub repository. 
 
+
 Feedback via direct messages, emails, or informal communication channels will not be tracked and may be missed. All technical discussion and proposed changes should be initiated as GitHub issues or pull requests.
+
+## Acknowledgements
+
+Developed by Cryptane (a.k.a Aditya), in collaboration with Centre of Excellence, Artificial Intelligence and Robotics (AIR), VIT-AP University, Andhra Pradesh, India. [AIR Center](https://air.vitap.ac.in/).
