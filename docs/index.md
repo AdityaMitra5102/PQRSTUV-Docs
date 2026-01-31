@@ -633,5 +633,4 @@ Feedback via direct messages, emails, or informal communication channels will no
 
 ## Acknowledgements
 
-Developed by Cryptane (a.k.a Aditya) [Homepage](https://adityamitra5102.github.io), Prof. Sibi Chakkaravarthy S., in collaboration with Centre of Excellence, Artificial Intelligence and Robotics (AIR), VIT-AP University, Andhra Pradesh, India. [AIR Center](https://air.vitap.ac.in/).
-
+Developed by Cryptane (a.k.a Aditya) [Homepage](https://adityamitra5102.github.io), Prof. Sibi Chakkaravarthy S., in collaboration with Centre of Excellence, Artificial Intelligence and Robotics (AIR), VIT-AP University, Andhra Pradesh, India. [AIR Center](https://air.vitap.ac.in/) and as a R&D project of Digital Fortress Pvt. Ltd. [Digital Fortress](https://digitalfortress.in).
