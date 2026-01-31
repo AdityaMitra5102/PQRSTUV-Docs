@@ -9,11 +9,11 @@ DO NOT USE THIS SOFTWARE IN COMMERCIAL APPLICATIONS OR PRODUCTION SYSTEMS.
 
 Using this software in commercial products or to protect sensitive data in production environments may expose you to significant security risks. Commercial-grade cryptographic implementations require:
 
-Independent security audits by qualified cryptographers
-Compliance with industry standards and regulations
-Extensive testing against known attack vectors
-Regular updates and security patches
-Professional support and maintenance
+- Independent security audits by qualified cryptographers
+- Compliance with industry standards and regulations
+- Extensive testing against known attack vectors
+- Regular updates and security patches
+- Professional support and maintenance
 
 The author(s) make no warranties regarding the security, correctness, or fitness for any particular purpose of this software. Use at your own risk.
 
