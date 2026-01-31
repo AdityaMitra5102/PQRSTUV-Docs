@@ -17,7 +17,6 @@ Using this software in commercial products or to protect sensitive data in produ
 
 The author(s) make no warranties regarding the security, correctness, or fitness for any particular purpose of this software. Use at your own risk.
 
-
 ## Abstract
 
 PQRSTUV is a cryptographic device used for secure management of cryptographic secrets and with support for Post Quantum Cryptographic algorithms. It does not support symmetric cryptography and is focused on asymmetric cryptography only.
