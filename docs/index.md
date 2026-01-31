@@ -5,7 +5,7 @@
 ## DISCLAIMER: NOT FOR COMMERCIAL USE
 
 This cryptographic standard is provided for educational, research, and experimental purposes only. It has not undergone the rigorous security audits and testing required for production environments.
-DO NOT USE THIS SOFTWARE IN COMMERCIAL APPLICATIONS OR PRODUCTION SYSTEMS.
+DO NOT USE THIS SOFTWARE/STANDARD IN COMMERCIAL APPLICATIONS OR PRODUCTION SYSTEMS.
 
 Using this software in commercial products or to protect sensitive data in production environments may expose you to significant security risks. Commercial-grade cryptographic implementations require:
 
