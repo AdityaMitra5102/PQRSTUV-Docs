@@ -3,7 +3,19 @@
 ## DRAFT v1.
 
 ## Disclaimer:
+DISCLAIMER: NOT FOR COMMERCIAL USE
+This cryptographic software is provided for educational, research, and experimental purposes only. It has not undergone the rigorous security audits and testing required for production environments.
+DO NOT USE THIS SOFTWARE IN COMMERCIAL APPLICATIONS OR PRODUCTION SYSTEMS.
+Using this software in commercial products or to protect sensitive data in production environments may expose you to significant security risks. Commercial-grade cryptographic implementations require:
 
+Independent security audits by qualified cryptographers
+Compliance with industry standards and regulations
+Extensive testing against known attack vectors
+Regular updates and security patches
+Professional support and maintenance
+
+The author(s) make no warranties regarding the security, correctness, or fitness for any particular purpose of this software. Use at your own risk.
+For commercial applications, please use well-established, professionally audited cryptographic libraries such as OpenSSL, libsodium, or similar industry-standard solutions.
 
 ## Abstract
 
