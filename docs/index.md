@@ -1,5 +1,10 @@
 # PQRSTUV - Post Quantum Resource Station Tucked Under Vault
 
+## DRAFT v1.
+
+## Disclaimer:
+
+
 ## Abstract
 
 PQRSTUV is a cryptographic device used for secure management of cryptographic secrets and with support for Post Quantum Cryptographic algorithms. It does not support symmetric cryptography and is focused on asymmetric cryptography only.
