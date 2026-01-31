@@ -15,7 +15,7 @@ Regular updates and security patches
 Professional support and maintenance
 
 The author(s) make no warranties regarding the security, correctness, or fitness for any particular purpose of this software. Use at your own risk.
-For commercial applications, please use well-established, professionally audited cryptographic libraries such as OpenSSL, libsodium, or similar industry-standard solutions.
+
 
 ## Abstract
 
