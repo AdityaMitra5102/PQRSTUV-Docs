@@ -27,19 +27,16 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 ## Technical details
 ```
-        +----------------------+
-        |    Storage Module    |
-        +----------------------+
-                  ||
-                  ||  Serial Link (ICP)
-                  ||
-        +----------------------+
-        |   Operation Module   |
-        +----------------------+
-                  |
-                  |  Ethernet (ECP / REST)
-                  |
-               [ Network ]
+                    +----------------------+
+                    |    Storage Module    |
+                    +----------------------+
+                              ||
+                              ||  Serial Link (ICP)
+                              ||
+                    +----------------------+
+ [ Network ]--------|   Operation Module   |
+             ECP/   +----------------------+
+             Ethernet     
 ```
 PQRSTUV is developed as two independent components: Storage Module and Operation Module. The Storage Module is airgapped from the network and has only a serial communication link to the Operation Module. Both modules run custom firmware and do not have a general-purpose operating system.
 
